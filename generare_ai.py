@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-API_KEY = "sk-f868d5011ad54595989cd87cb59fa417"
+API_KEY = "12345678" #example of an apy key
 URL = "https://api.deepseek.com/chat/completions"
 
 def genereaza_quiz(topic, retries=3):
