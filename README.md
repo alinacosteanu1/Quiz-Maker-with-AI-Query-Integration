@@ -41,3 +41,35 @@ Upon answering all questions, the application displays a comprehensive result sc
 </p>
 
 ---
+### 5. Architecture & Core Modules
+
+The application is organized into modular components that separate user interaction, application logic, and data persistence, ensuring a clear and maintainable structure.
+
+#### 5.1. Backend & Logic Processing (backend.py)
+
+The backend.py module acts as the engine of the application, responsible for managing the main quiz logic and player progress. Its main functionalities include:
+
+- **Question Management:** Loading and saving quiz questions from local storage.
+- **Random Question Selection:** Randomly sampling questions to ensure variety across quiz sessions.
+- **Score Tracking:** Monitoring player scores in real time and calculating final percentages.
+- **Leaderboard Management:** Updating the persistent leaderboard with player scores and rankings.
+
+#### 5.2. AI Integration Module (generare_ai.py)
+
+The generare_ai.py module extends the application beyond predefined questions by integrating the **DeepSeek API**, allowing users to generate quizzes on custom topics.
+
+Its main features include:
+
+- **Dynamic Quiz Generation:** Sending structured system and user prompts to the API to generate questions based on user-provided topics.
+- **Structured JSON Output:** Enforcing a consistent JSON format containing four multiple-choice options (`a`, `b`, `c`, `d`) and an explicit correct answer key.
+- **Error Handling:** Managing API errors, connectivity issues, and request limits.
+
+
+#### 5.3. Local Data Persistence
+
+The application uses local files to store quiz data and maintain player rankings across sessions.
+
+- **quizuri.json:** Stores predefined quiz categories, questions, multiple-choice options, and correct answers in a structured JSON format.
+- **leaderboard.txt:** Maintains a persistent record of player scores and rankings, allowing top performances to be displayed directly in the main menu.
+
+---
