@@ -1,0 +1,1144 @@
+{
+  "stiinta": [
+    {
+      "intrebare": "Ce formulă descrie Legea lui Newton?",
+      "variante": {
+        "a": "F = ma",
+        "b": "E = mc²",
+        "c": "V = IR",
+        "d": "P = VI"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Care este cel mai dur mineral natural de pe Pământ, conform scării Mohs?",
+      "variante": {
+        "a": "Diamant",
+        "b": "Rubin",
+        "c": "Cuarț",
+        "d": "Topaz"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Care dintre următoarele planete este cunoscută ca 'Planeta Roșie'?",
+      "variante": {
+        "a": "Venus",
+        "b": "Jupiter",
+        "c": "Marte",
+        "d": "Saturn"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Care este unitatea de măsură a rezistenței electrice în Sistemul Internațional?",
+      "variante": {
+        "a": "Volt",
+        "b": "Amper",
+        "c": "Ohm",
+        "d": "Watt"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Care dintre următorii biologi este cunoscut pentru teoria evoluției prin selecție naturală?",
+      "variante": {
+        "a": "Gregor Mendel",
+        "b": "Louis Pasteur",
+        "c": "Charles Darwin",
+        "d": "Carl Linnaeus"
+      },
+      "corect": "c"
+    }
+  ],
+  "gastronomie": [
+    {
+      "intrebare": "Care este ingredientul principal în ratatouille?",
+      "variante": {
+        "a": "Vinete",
+        "b": "Cartofi",
+        "c": "Rosii",
+        "d": "Varza"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Care este țara de origine a preparatului 'sushi'?",
+      "variante": {
+        "a": "Japonia",
+        "b": "China",
+        "c": "Thailanda",
+        "d": "Coreea de Sud"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Care dintre următoarele ingrediente este esențial pentru prepararea autentică a pastei italiene 'carbonara'?",
+      "variante": {
+        "a": "Smântână",
+        "b": "Ouă",
+        "c": "Ulei de măsline",
+        "d": "Roșii"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce tip de brânză este folosită în mod tradițional pentru prepararea fonduei elvețiene?",
+      "variante": {
+        "a": "Gouda",
+        "b": "Emmental și Gruyère",
+        "c": "Brie",
+        "d": "Parmezan"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care este principalul ingredient al sosului spaniol 'romesco'?",
+      "variante": {
+        "a": "Ardei roșu copt",
+        "b": "Roșii proaspete",
+        "c": "Anșoa",
+        "d": "Măsline"
+      },
+      "corect": "a"
+    }
+  ],
+  "biologie marina": [
+    {
+      "intrebare": "Care este cel mai mare mamifer marin?",
+      "variante": {
+        "a": "Rechinul alb",
+        "b": "Balena albastra",
+        "c": "Delfinul",
+        "d": "Foca"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care este cel mai mare animal din lume, care trăiește în ocean?",
+      "variante": {
+        "a": "Rechinul alb",
+        "b": "Balena albastră",
+        "c": "Caracatița gigant",
+        "d": "Delfinul"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce tip de corali sunt cunoscuți pentru construirea recifelor de corali, cum ar fi Marea Barieră de Corali?",
+      "variante": {
+        "a": "Corali moi",
+        "b": "Corali de stâncă (hermatipici)",
+        "c": "Corali solitari",
+        "d": "Corali de apă rece"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce organ specializat folosesc peștii pentru a controla flotabilitatea și a se menține la diferite adâncimi în apă?",
+      "variante": {
+        "a": "Botnița",
+        "b": "Vezica înotătoare",
+        "c": "Aripioarele pectorale",
+        "d": "Linia laterală"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care dintre următoarele organisme marine este clasificată ca mamifer, nu ca pește?",
+      "variante": {
+        "a": "Rechinul ciocănitoare",
+        "b": "Delfinul",
+        "c": "Manta ray",
+        "d": "Marea broască țestoasă de mare"
+      },
+      "corect": "b"
+    }
+  ],
+  "astronomie": [
+    {
+      "intrebare": "Care este a patra planeta de la Soare?",
+      "variante": {
+        "a": "Venus",
+        "b": "Pamant",
+        "c": "Marte",
+        "d": "Jupiter"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Care este cea mai mare planetă din sistemul nostru solar?",
+      "variante": {
+        "a": "Pământ",
+        "b": "Jupiter",
+        "c": "Saturn",
+        "d": "Neptun"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce tip de stea este Soarele nostru?",
+      "variante": {
+        "a": "Gigantă roșie",
+        "b": "Pitică albă",
+        "c": "Stea de secvență principală (Gălbene)",
+        "d": "Supernovă"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Care este cel mai apropiat corp ceresc de Pământ?",
+      "variante": {
+        "a": "Venus",
+        "b": "Marte",
+        "c": "Soarele",
+        "d": "Luna"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Ce fenomen astronomic este cauzat de înclinarea axei Pământului?",
+      "variante": {
+        "a": "Fazele Lunii",
+        "b": "Anotimpurile",
+        "c": "Eclipselor de Soare",
+        "d": "Mișcarea retrogradă a planetelor"
+      },
+      "corect": "b"
+    }
+  ],
+  "folclor romanesc": [
+    {
+      "intrebare": "Cine este eroul din balada Miorita?",
+      "variante": {
+        "a": "Ion",
+        "b": "Mihai",
+        "c": "Ciobanul",
+        "d": "Viteazul"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Care este personajul principal din balada populară românească 'Miorița'?",
+      "variante": {
+        "a": "Un păcurar",
+        "b": "Un împărat",
+        "c": "O zână",
+        "d": "Un haiduc"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Ce reprezintă 'Călușul' în folclorul românesc?",
+      "variante": {
+        "a": "Un dans ritual de origine dacică",
+        "b": "O poveste despre zmei",
+        "c": "Un tip de colind",
+        "d": "O sărbătoare de vară"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Care dintre următoarele este un obicei tradițional românesc asociat cu sărbătoarea Crăciunului?",
+      "variante": {
+        "a": "Sorcova",
+        "b": "Mărțișorul",
+        "c": "Sânzienele",
+        "d": "Dragobetele"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "În mitologia românească, cine este 'Baba Dochia'?",
+      "variante": {
+        "a": "O zeiță a primăverii",
+        "b": "O personaj legat de trecerea de la iarnă la primăvară",
+        "c": "O zână a pădurii",
+        "d": "O vrăjitoare rea"
+      },
+      "corect": "b"
+    }
+  ],
+  "cultura generala": [
+    {
+      "intrebare": "In ce tara se afla Piramidele din Giza?",
+      "variante": {
+        "a": "Grecia",
+        "b": "Egipt",
+        "c": "Italia",
+        "d": "Turcia"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care este capitala Australiei?",
+      "variante": {
+        "a": "Sydney",
+        "b": "Melbourne",
+        "c": "Canberra",
+        "d": "Perth"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Cine a pictat 'Mona Lisa'?",
+      "variante": {
+        "a": "Michelangelo",
+        "b": "Leonardo da Vinci",
+        "c": "Rembrandt",
+        "d": "Vincent van Gogh"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care este cel mai lung fluviu din lume?",
+      "variante": {
+        "a": "Amazon",
+        "b": "Nil",
+        "c": "Yangtze",
+        "d": "Mississippi"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "În ce an a căzut Zidul Berlinului?",
+      "variante": {
+        "a": "1987",
+        "b": "1989",
+        "c": "1991",
+        "d": "1985"
+      },
+      "corect": "b"
+    }
+  ],
+  "filme": [
+    {
+      "intrebare": "Cine a regizat filmul 'Titanic'?",
+      "variante": {
+        "a": "Steven Spielberg",
+        "b": "James Cameron",
+        "c": "Christopher Nolan",
+        "d": "Quentin Tarantino"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care este singurul film care a câștigat Oscarul pentru cel mai bun film, dar nu a primit niciun premiu Oscar pentru interpretare?",
+      "variante": {
+        "a": "Forrest Gump",
+        "b": "Lord of the Rings: The Return of the King",
+        "c": "Gladiator",
+        "d": "Titanic"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "În ce film apare celebra replică: 'I'll be back'?",
+      "variante": {
+        "a": "Predator",
+        "b": "Total Recall",
+        "c": "The Terminator",
+        "d": "Commando"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Cine a regizat filmul 'The Godfather' din 1972?",
+      "variante": {
+        "a": "Martin Scorsese",
+        "b": "Francis Ford Coppola",
+        "c": "Steven Spielberg",
+        "d": "Alfred Hitchcock"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care este cel mai lung film care a câștigat vreodată Oscarul pentru cel mai bun film?",
+      "variante": {
+        "a": "Gone with the Wind",
+        "b": "Lawrence of Arabia",
+        "c": "Titanic",
+        "d": "The Lord of the Rings: The Return of the King"
+      },
+      "corect": "b"
+    }
+  ],
+  "pesti": [
+    {
+      "intrebare": "Ce organ folosesc peștii pentru a respira sub apă?",
+      "variante": {
+        "a": "Plămâni",
+        "b": "Branchii",
+        "c": "Trahee",
+        "d": "Pielea"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care dintre următorii pești este un exemplu de pește cartilaginos?",
+      "variante": {
+        "a": "Somnul",
+        "b": "Rechinul",
+        "c": "Crapul",
+        "d": "Șalăul"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce structură ajută peștii să mențină echilibrul și adâncimea în apă?",
+      "variante": {
+        "a": "Scoică",
+        "b": "Vezica înotătoare",
+        "c": "Bot",
+        "d": "Solzi"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care este cel mai mare pește din lume?",
+      "variante": {
+        "a": "Rechinul alb",
+        "b": "Rechinul balenă",
+        "c": "Manta",
+        "d": "Tonul roșu"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce tip de reproducere este caracteristic majorității peștilor?",
+      "variante": {
+        "a": "Ovipară (prin ouă)",
+        "b": "Vivipară (pui vii)",
+        "c": "Ovovivipară",
+        "d": "Înmultire asexuată"
+      },
+      "corect": "a"
+    }
+  ],
+  "branduri": [
+    {
+      "intrebare": "Care dintre următoarele este cel mai valoros brand din lume în 2023, conform clasamentului BrandZ?",
+      "variante": {
+        "a": "Apple",
+        "b": "Amazon",
+        "c": "Google",
+        "d": "Microsoft"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Ce termen descrie asocierea unei mărci cu un sportiv sau o celebritate pentru promovare?",
+      "variante": {
+        "a": "Brand Awareness",
+        "b": "Brand Loyalty",
+        "c": "Brand Endorsement",
+        "d": "Brand Equity"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Care este principala funcție a unui slogan de brand?",
+      "variante": {
+        "a": "Să descrie în detaliu toate specificațiile produsului",
+        "b": "Să comunice rapid esența și valoarea mărcii",
+        "c": "Să indice prețul produsului",
+        "d": "Să fie o traducere a numelui mărcii"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce element al identității vizuale a unui brand este cel mai recunoscut și de obicei protejat prin drepturi de autor?",
+      "variante": {
+        "a": "Sloganul",
+        "b": "Ambalajul",
+        "c": "Logo-ul",
+        "d": "Culorile corporative"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Ce strategie de branding implică lansarea unui produs nou sub un brand deja existent și bine cunoscut?",
+      "variante": {
+        "a": "Brand Licensing",
+        "b": "Co-branding",
+        "c": "Brand Extension",
+        "d": "Rebranding"
+      },
+      "corect": "c"
+    }
+  ],
+  "arta": [
+    {
+      "intrebare": "Care este numele pictorului care a realizat celebra frescă 'Crearea lui Adam' din Capela Sixtină?",
+      "variante": {
+        "a": "Leonardo da Vinci",
+        "b": "Michelangelo",
+        "c": "Rafael",
+        "d": "Donatello"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "În ce țară a apărut curentul artistic impresionismul în secolul al XIX-lea?",
+      "variante": {
+        "a": "Italia",
+        "b": "Olanda",
+        "c": "Franța",
+        "d": "Germania"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Care dintre următoarele tablouri a fost pictat de Vincent van Gogh?",
+      "variante": {
+        "a": "Strălucirea nopții",
+        "b": "Nopțile înstelate",
+        "c": "Noaptea cerului",
+        "d": "Stelele pe cerul nopții"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce artist spaniol este cunoscut pentru crearea stilului cubist și pentru tabloul 'Domnișoarele din Avignon'?",
+      "variante": {
+        "a": "Salvador Dalí",
+        "b": "Pablo Picasso",
+        "c": "Joan Miró",
+        "d": "Francisco Goya"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care este numele sculpturii antice grecești reprezentând zeița victoriei, lipsită de cap și brațe, expusă în muzeul Luvru?",
+      "variante": {
+        "a": "Venus din Milo",
+        "b": "Nike din Samotracia",
+        "c": "Discobolul",
+        "d": "Laocoon și fiii săi"
+      },
+      "corect": "b"
+    }
+  ],
+  "istorie": [
+    {
+      "intrebare": "În ce an a avut loc Revoluția Franceză?",
+      "variante": {
+        "a": "1789",
+        "b": "1776",
+        "c": "1799",
+        "d": "1812"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Cine a fost primul împărat roman?",
+      "variante": {
+        "a": "Iulius Caesar",
+        "b": "Augustus",
+        "c": "Traian",
+        "d": "Nero"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care civilizație antică a construit piramidele de la Giza?",
+      "variante": {
+        "a": "Mesopotamia",
+        "b": "Grecia Antică",
+        "c": "Egiptul Antic",
+        "d": "Imperiul Roman"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "În ce perioadă a avut loc Primul Război Mondial?",
+      "variante": {
+        "a": "1905-1910",
+        "b": "1914-1918",
+        "c": "1939-1945",
+        "d": "1899-1902"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Cine a fost conducătorul Uniunii Sovietice în timpul celui de-al Doilea Război Mondial?",
+      "variante": {
+        "a": "Vladimir Lenin",
+        "b": "Leonid Brejnev",
+        "c": "Nikita Hrușciov",
+        "d": "Iosif Stalin"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Care a fost primul om care a pășit pe Lună?",
+      "variante": {
+        "a": "Buzz Aldrin",
+        "b": "Yuri Gagarin",
+        "c": "Neil Armstrong",
+        "d": "John Glenn"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "În ce an a căzut Zidul Berlinului?",
+      "variante": {
+        "a": "1985",
+        "b": "1989",
+        "c": "1991",
+        "d": "1979"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care a fost capitala Imperiului Bizantin?",
+      "variante": {
+        "a": "Roma",
+        "b": "Atena",
+        "c": "Constantinopol",
+        "d": "Alexandria"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Cine a scris \"Declarația de Independență a Statelor Unite\"?",
+      "variante": {
+        "a": "George Washington",
+        "b": "Benjamin Franklin",
+        "c": "Thomas Jefferson",
+        "d": "John Adams"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Care a fost primul președinte al României după Revoluția din 1989?",
+      "variante": {
+        "a": "Ion Iliescu",
+        "b": "Nicolae Ceaușescu",
+        "c": "Emil Constantinescu",
+        "d": "Traian Băsescu"
+      },
+      "corect": "a"
+    }
+  ],
+  "fizica": [
+    {
+      "intrebare": "Care este unitatea de măsură a forței în Sistemul Internațional?",
+      "variante": {
+        "a": "Joule",
+        "b": "Newton",
+        "c": "Pascal",
+        "d": "Watt"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce formulă descrie Legea lui Ohm?",
+      "variante": {
+        "a": "P = U*I",
+        "b": "U = R*I",
+        "c": "F = m*a",
+        "d": "Q = m*c*ΔT"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Un corp este aruncat vertical în sus. În punctul cel mai înalt al traiectoriei:",
+      "variante": {
+        "a": "Viteza este maximă și accelerația este zero",
+        "b": "Viteza este zero și accelerația este zero",
+        "c": "Viteza este zero și accelerația este egală cu accelerația gravitațională",
+        "d": "Viteza este minimă și accelerația este maximă"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Care dintre următoarele este o mărime vectorială?",
+      "variante": {
+        "a": "Temperatura",
+        "b": "Masa",
+        "c": "Timpul",
+        "d": "Viteza"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Conform principiului al III-lea al dinamicii, dacă un corp A acționează asupra unui corp B cu o forță F, atunci:",
+      "variante": {
+        "a": "Corpul B nu acționează cu nicio forță asupra corpului A",
+        "b": "Corpul B acționează asupra corpului A cu o forță mai mică decât F",
+        "c": "Corpul B acționează asupra corpului A cu o forță egală și de sens opus cu F",
+        "d": "Corpul B acționează asupra corpului A cu o forță mai mare decât F"
+      },
+      "corect": "c"
+    }
+  ],
+  "sport": [
+    {
+      "intrebare": "Câte jucători sunt pe teren într-o echipă de fotbal la un moment dat?",
+      "variante": {
+        "a": "11",
+        "b": "10",
+        "c": "9",
+        "d": "12"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Care este numărul de seturi câștigate necesar pentru a câștiga un meci de tenis la masculin la Grand Slam?",
+      "variante": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "În ce țară s-a născut sportul badminton?",
+      "variante": {
+        "a": "China",
+        "b": "Anglia",
+        "c": "India",
+        "d": "Danemarca"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care este înălțimea oficială a coșului de baschet?",
+      "variante": {
+        "a": "3.00 metri",
+        "b": "3.05 metri",
+        "c": "3.10 metri",
+        "d": "2.95 metri"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Câte mingi de bowling trebuie doborâte într-un cadru perfect (strike)?",
+      "variante": {
+        "a": "10",
+        "b": "9",
+        "c": "12",
+        "d": "8"
+      },
+      "corect": "a"
+    }
+  ],
+  "geografie": [
+    {
+      "intrebare": "Care este cel mai lung fluviu din Europa?",
+      "variante": {
+        "a": "Volga",
+        "b": "Dunărea",
+        "c": "Rinul",
+        "d": "Ural"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Care este capitala Australiei?",
+      "variante": {
+        "a": "Sydney",
+        "b": "Melbourne",
+        "c": "Canberra",
+        "d": "Perth"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Care este cel mai mare deșert din lume?",
+      "variante": {
+        "a": "Deșertul Gobi",
+        "b": "Deșertul Antarctic",
+        "c": "Deșertul Sahara",
+        "d": "Deșertul Arabiei"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Prin câte state trece Dunărea?",
+      "variante": {
+        "a": "8",
+        "b": "10",
+        "c": "12",
+        "d": "14"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care este cel mai înalt munte din lume?",
+      "variante": {
+        "a": "K2",
+        "b": "Kangchenjunga",
+        "c": "Everest",
+        "d": "Makalu"
+      },
+      "corect": "c"
+    }
+  ],
+  "toate": [
+    {
+      "intrebare": "Care este cuvântul care, în limba română, poate înlocui orice substantiv?",
+      "variante": {
+        "a": "tot",
+        "b": "toate",
+        "c": "toți",
+        "d": "toată"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care dintre următoarele este forma corectă de feminin plural pentru pronumele nehotărât care înseamnă 'întregul, fiecare'?",
+      "variante": {
+        "a": "toți",
+        "b": "toate",
+        "c": "tot",
+        "d": "toată"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "În propoziția 'Am citit ___ cărțile recomandate', care formă completează corect spațiul?",
+      "variante": {
+        "a": "tot",
+        "b": "toate",
+        "c": "toți",
+        "d": "toată"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care dintre aceste cuvinte este un pronume nehotărât care acordă genul feminin și numărul plural?",
+      "variante": {
+        "a": "tot",
+        "b": "toți",
+        "c": "toate",
+        "d": "toată"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Cum se traduce corect în limba română expresia 'all things'?",
+      "variante": {
+        "a": "tot lucrurile",
+        "b": "toate lucrurile",
+        "c": "toți lucrurile",
+        "d": "toată lucrurile"
+      },
+      "corect": "b"
+    }
+  ],
+  "masini": [
+    {
+      "intrebare": "Ce marcă de automobile a fost fondată de Soichiro Honda în 1948?",
+      "variante": {
+        "a": "Toyota",
+        "b": "Honda",
+        "c": "Mazda",
+        "d": "Subaru"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care dintre următoarele tipuri de motoare este în general cel mai eficient din punct de vedere al consumului de combustibil?",
+      "variante": {
+        "a": "Motor cu benzină, aspirație naturală",
+        "b": "Motor diesel",
+        "c": "Motor hibrid (benzină + electric)",
+        "d": "Motor electric (baterii)"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Ce înseamnă acronimul SUV, folosit des în industria auto?",
+      "variante": {
+        "a": "Sport Utility Vehicle",
+        "b": "Special Urban Vehicle",
+        "c": "Speed Utility Van",
+        "d": "Super Utility Van"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Care este funcția principală a unui diferențial într-un automobil?",
+      "variante": {
+        "a": "Să mărească cuplul motorului",
+        "b": "Să permită roților din același ax să se rotească la viteze diferite în viraje",
+        "c": "Să reducă vibrațiile motorului",
+        "d": "Să controleze sistemul de frânare antiblocare (ABS)"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce marcă auto este reprezentată de un emblema în formă de cal rampant?",
+      "variante": {
+        "a": "Jaguar",
+        "b": "Ferrari",
+        "c": "Porsche",
+        "d": "Lamborghini"
+      },
+      "corect": "b"
+    }
+  ],
+  "automobile germane motorizari": [
+    {
+      "intrebare": "Ce marcă germană a dezvoltat primul motor diesel pentru autoturisme, lansat în 1936?",
+      "variante": {
+        "a": "Mercedes-Benz",
+        "b": "Opel",
+        "c": "BMW",
+        "d": "Audi"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Care este denumirea cod pentru motorul în linie cu 6 cilindri, celebru pentru fiabilitate și sunet, folosit pe scară largă de BMW?",
+      "variante": {
+        "a": "EA888",
+        "b": "M54",
+        "c": "VR6",
+        "d": "OM642"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce tip de motorizare, introdusă de Volkswagen în anii '90, combină avantajele unui motor diesel cu performanțe sportive și este cunoscută sub acronimul TDI?",
+      "variante": {
+        "a": "Injecție indirectă turbodiesel",
+        "b": "Injecție directă turbodiesel",
+        "c": "Injecție secvențială benzină",
+        "d": "Motor hibrid diesel-electric"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care dintre următoarele motoare, produs de Audi, a fost primul motor din serie cu 5 cilindri care a câștigat titlul de 'Motorul Anului' în 2010?",
+      "variante": {
+        "a": "2.5 TFSI",
+        "b": "3.0 TDI",
+        "c": "4.2 FSI",
+        "d": "1.8 T"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Ce marcă germană a fost pionieră în utilizarea motoarelor W12 și W16 pentru mașinile sale de serie de înaltă performanță?",
+      "variante": {
+        "a": "Porsche",
+        "b": "Mercedes-AMG",
+        "c": "BMW M",
+        "d": "Volkswagen Group (folosit de Bugatti și Bentley)"
+      },
+      "corect": "d"
+    }
+  ],
+  "componente pasive": [
+    {
+      "intrebare": "Care dintre următoarele componente este un exemplu de componentă pasivă?",
+      "variante": {
+        "a": "Tranzistor",
+        "b": "Rezistor",
+        "c": "Microcontroler",
+        "d": "Diodă LED"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce proprietate electrică principală caracterizează un condensator?",
+      "variante": {
+        "a": "Rezistență",
+        "b": "Capacitate",
+        "c": "Inductanță",
+        "d": "Amplificare"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care dintre următoarele componente pasive stochează energie într-un câmp magnetic?",
+      "variante": {
+        "a": "Rezistor",
+        "b": "Condensator",
+        "c": "Bobina (inductor)",
+        "d": "Termistor"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "Ce lege descrie relația dintre tensiune, curent și rezistență într-un circuit?",
+      "variante": {
+        "a": "Legea lui Faraday",
+        "b": "Legea lui Ohm",
+        "c": "Legea lui Kirchhoff",
+        "d": "Legea lui Coulomb"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Ce tip de componentă pasivă își modifică rezistența în funcție de temperatură?",
+      "variante": {
+        "a": "Potențiometru",
+        "b": "Varistor",
+        "c": "Termistor",
+        "d": "Fotorezistor"
+      },
+      "corect": "c"
+    }
+  ],
+  "facultate": [
+    {
+      "intrebare": "Ce înseamnă termenul 'facultate'?",
+      "variante": {
+        "a": "Studiul fenomenelor naturale",
+        "b": "O disciplină academică",
+        "c": "O practică culturală",
+        "d": "Toate de mai sus"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Când a apărut domeniul 'facultate'?",
+      "variante": {
+        "a": "În antichitate",
+        "b": "În evul mediu",
+        "c": "În epoca modernă",
+        "d": "Depinde de context"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Cine este un reprezentant important al 'facultate'?",
+      "variante": {
+        "a": "Un cercetător cunoscut",
+        "b": "Un artist celebru",
+        "c": "Un lider istoric",
+        "d": "Depinde de domeniu"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Care este aplicația practică a 'facultate'?",
+      "variante": {
+        "a": "În educație",
+        "b": "În tehnologie",
+        "c": "În artă",
+        "d": "În multe domenii"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "De ce este important 'facultate'?",
+      "variante": {
+        "a": "Dezvoltă gândirea critică",
+        "b": "Îmbunătățește abilitățile practice",
+        "c": "Extinde orizonturile culturale",
+        "d": "Toate de mai sus"
+      },
+      "corect": "d"
+    }
+  ],
+  "muzica": [
+    {
+      "intrebare": "Care instrument muzical este clasificat ca un instrument de suflat din lemn, deși este adesea fabricat din metal?",
+      "variante": {
+        "a": "Trompetă",
+        "b": "Saxofon",
+        "c": "Trombon",
+        "d": "Tubă"
+      },
+      "corect": "b"
+    },
+    {
+      "intrebare": "Care dintre următoarele compozitori este asociat în mod deosebit cu perioada Romantică a muzicii clasice?",
+      "variante": {
+        "a": "Johann Sebastian Bach",
+        "b": "Wolfgang Amadeus Mozart",
+        "c": "Ludwig van Beethoven",
+        "d": "Frédéric Chopin"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Ce termen descrie viteza sau încetinirea unei piese muzicale?",
+      "variante": {
+        "a": "Dinamica",
+        "b": "Timpul",
+        "c": "Tempo",
+        "d": "Articulația"
+      },
+      "corect": "c"
+    },
+    {
+      "intrebare": "În notația muzicală, câte măsuri are un compas de 4/4?",
+      "variante": {
+        "a": "Patru timpi, fiecare valând o notă pătrată",
+        "b": "Patru timpi, fiecare valând o notă optime",
+        "c": "Patru timpi, fiecare valând o notă întreagă",
+        "d": "Doi timpi, fiecare valând o notă pătrată"
+      },
+      "corect": "a"
+    },
+    {
+      "intrebare": "Care formație este cunoscută pentru albumul 'The Dark Side of the Moon'?",
+      "variante": {
+        "a": "Led Zeppelin",
+        "b": "The Beatles",
+        "c": "Pink Floyd",
+        "d": "Queen"
+      },
+      "corect": "c"
+    }
+  ],
+  "cercetasie": [
+    {
+      "intrebare": "Ce înseamnă termenul 'cercetasie'?",
+      "variante": {
+        "a": "Studiul fenomenelor naturale",
+        "b": "O disciplină academică",
+        "c": "O practică culturală",
+        "d": "Toate de mai sus"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Când a apărut domeniul 'cercetasie'?",
+      "variante": {
+        "a": "În antichitate",
+        "b": "În evul mediu",
+        "c": "În epoca modernă",
+        "d": "Depinde de context"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Cine este un reprezentant important al 'cercetasie'?",
+      "variante": {
+        "a": "Un cercetător cunoscut",
+        "b": "Un artist celebru",
+        "c": "Un lider istoric",
+        "d": "Depinde de domeniu"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "Care este aplicația practică a 'cercetasie'?",
+      "variante": {
+        "a": "În educație",
+        "b": "În tehnologie",
+        "c": "În artă",
+        "d": "În multe domenii"
+      },
+      "corect": "d"
+    },
+    {
+      "intrebare": "De ce este important 'cercetasie'?",
+      "variante": {
+        "a": "Dezvoltă gândirea critică",
+        "b": "Îmbunătățește abilitățile practice",
+        "c": "Extinde orizonturile culturale",
+        "d": "Toate de mai sus"
+      },
+      "corect": "d"
+    }
+  ]
+}

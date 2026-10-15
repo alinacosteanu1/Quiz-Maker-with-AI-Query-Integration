@@ -1,0 +1,37 @@
+Maria - 9/10
+Alex - 8/10
+Alina - 1/10
+Alina - 5/10
+Andreea - 2/10
+Marius - 2/10
+Diana - 2/5
+Marta: 3/5 - 60.0%
+Jucător: 1/1 - 100.0%
+Jucător: 3/5 - 60.0%
+Alin: 1/1 - 100.0%
+Jucător: 2/5 - 40.0%
+Jucător: 1/1 - 100.0%
+Florin: 0/1 - 0.0%
+Jucător: 0/1 - 0.0%
+Jucător: 1/5 - 20.0%
+Jucător: 3/5 - 60.0%
+ALEX: 0/1 - 0.0%
+Jucător: 4/5 - 80.0%
+Jucător: 4/5 - 80.0%
+Jucător: 3/5 - 60.0%
+Jucător: 4/5 - 80.0%
+Jucător: 3/5 - 60.0%
+Alina: 4/5 - 80.0%
+Andrei: 2/5 - 40.0%
+Gabi: 5/5 - 100.0%
+Gabi_2: 2/5 - 40.0%
+Gabi_AI: 4/5 - 80.0%
+Jucător: 3/5 - 60.0%
+Alina: 4/5 - 80.0%
+Jucător: 5/5 - 100.0%
+Jucător: 2/5 - 40.0%
+Jucător: 2/5 - 40.0%
+Jucător: 2/5 - 40.0%
+Georgian: 3/5 - 60.0%
+Jucător: 3/10 - 30.0%
+Jucător: 3/5 - 60.0%
